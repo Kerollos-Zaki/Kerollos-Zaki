@@ -4,6 +4,10 @@
 
 I am a recent Computer Science graduate from Ain Shams University, passionate about building systems where software meets hardware. I enjoy solving complex problems and bringing creative engineering concepts to life. 
 
+### 🎯 Open for Opportunities
+* 💼 **Actively seeking a Full-Time position** as an Embedded Systems Engineer, IoT Developer, or Software Engineer. 
+* 🌍 Open to local roles in Egypt, hybrid, or remote opportunities.
+
 ### 🔭 What I'm working on
 * **The Automated Chessboard:** Continuously developing and refining my graduation project, a fully automated physical chessboard. 
 * **Freelance Engineering:** Actively taking on freelance software projects, specializing in embedded systems, computer vision, and IoT solutions.
